@@ -34,7 +34,7 @@ npm run build
 php artisan serve
 ```
 
-## Preview and Screenshots
+## Preview
 ![alt text](https://i.ibb.co/zXYFCQx/output-M0-FBBB.gif)
 
 
