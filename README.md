@@ -11,6 +11,8 @@ It proposes a board where all important datas are stored (wedding place, number 
 It also provides tips and links to help the organization.
 In back-office, the administrator is able to Create/Read/Update/Delete every user or project (CRUD).
 
+Backend API : Laravel - Frontend : Vue.js
+
 ## Install
 It requires Node.js, Composer and the setup of a database MySql.
 In the root, run the different commands
