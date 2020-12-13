@@ -1,8 +1,8 @@
-# Projet de fin de formation : PerfectWed
+# Dev&Go by EPITECH final project : PerfectWed
 
 PerfectWed is an End Course Project of the Coding Academy by Epitech.
 
-It has been realised during December 2020.
+It was realised during December 2020.
 
 ## Description
 End Course Project.
@@ -37,10 +37,7 @@ php artisan serve
 
 ## Preview and Screenshots
 ![alt text](https://i.ibb.co/zXYFCQx/output-M0-FBBB.gif)
-![](public/Screen1.png)
-![](public/Screen2.png)
-![](public/Screen3.png)
-![](public/Screen.png)
+
 
 ## Built with
 - Laravel(https://laravel.com/)
